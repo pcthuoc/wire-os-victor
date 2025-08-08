@@ -32,6 +32,15 @@
    * Unit tests for engine
    * unit tests for coretech
    * Webots tests (sometimes fail!)
+## Comprehensive System Analysis / Phân Tích Hệ Thống Toàn Diện
+
+* **[System Analysis](../SYSTEM_ANALYSIS.md)**: Complete system overview and architecture analysis (Vietnamese + English)
+
+* **[Technical Deep Dive](../TECHNICAL_DEEP_DIVE.md)**: Detailed technical implementation analysis
+
+* **[Component Diagrams](../COMPONENT_DIAGRAMS.md)**: Visual representation of system components and data flow  
+
+* **[Code Metrics](../CODE_METRICS.md)**: Codebase statistics, quality metrics, and recommendations
 
 
 
